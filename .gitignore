@@ -1,0 +1,9 @@
+.DS_Store
+*/.DS_Store
+.RData
+.Rhistory
+*.Rmd
+*.pdf
+*.docx
+/output
+/temp
